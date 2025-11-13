@@ -5,8 +5,8 @@ with open("README.md") as f:
     long_description = f.read()
 
 setup(
-    name="descript-audiotools",
-    version="0.7.4",
+    name="tts-webui.descript-audiotools",
+    version="0.7.5",
     classifiers=[
         "Intended Audience :: Developers",
         "Intended Audience :: Education",
